@@ -12,8 +12,8 @@ Dan Koe 著 · Essays Volume 1
 
 | 文件 | 说明 | 下载 |
 |------|------|------|
-| `目的与利润_校对修订版.pdf` | 中文译本，AI 翻译后手工校对修订版 | [下载](https://github.com/onecaicai/DANKOE-Purpose-Profit/raw/main/%E7%9B%AE%E7%9A%84%E4%B8%8E%E5%88%A9%E6%B6%A6_%E6%A0%A1%E5%AF%B9%E4%BF%AE%E8%AE%A2%E7%89%88.pdf) |
-| `Purpose-Profit-2.pdf` | 英文原版 PDF | [下载](https://github.com/onecaicai/DANKOE-Purpose-Profit/raw/main/Purpose-Profit-2.pdf) |
+| [目的与利润\_校对修订版.pdf](目的与利润_校对修订版.md) | 中文译本，AI 翻译后手工校对修订版 | [下载](https://github.com/onecaicai/DANKOE-Purpose-Profit/raw/main/%E7%9B%AE%E7%9A%84%E4%B8%8E%E5%88%A9%E6%B6%A6_%E6%A0%A1%E5%AF%B9%E4%BF%AE%E8%AE%A2%E7%89%88.pdf) |
+| [Purpose-Profit-2.pdf](Purpose-Profit-2.md) | 英文原版 PDF | [下载](https://github.com/onecaicai/DANKOE-Purpose-Profit/raw/main/Purpose-Profit-2.pdf) |
 
 ## 内容简介
 
